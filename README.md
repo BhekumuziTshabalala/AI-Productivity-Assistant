@@ -86,4 +86,3 @@ To connect the application to a real Large Language Model (like OpenAI's GPT-4 o
 
 ---
 
-*Designed and built by Antigravity.*
